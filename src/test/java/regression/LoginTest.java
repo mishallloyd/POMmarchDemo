@@ -8,6 +8,7 @@ import pages.Login;
 public class LoginTest {
 
 
+    @Test
     public void loginTest()
     {
         WebDriver driver = new ChromeDriver();
